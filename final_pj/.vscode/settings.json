@@ -1,0 +1,33 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ohjunseok/rokey4_C3_ws/install/pubsub/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/DepthToEstimateDistance/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/model_dd_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/cam_cap/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/DetackDepth/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/build/turtlebot4_openai_tutorials",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_openai_tutorials/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ohjunseok/rokey4_C3_ws/install/pubsub/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/DepthToEstimateDistance/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/model_dd_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/cam_cap/lib/python3.10/site-packages",
+        "/home/ohjunseok/rokey4_C3_ws/install/DetackDepth/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/build/turtlebot4_python_tutorials",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_python_tutorials/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/build/turtlebot4_openai_tutorials",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_openai_tutorials/lib/python3.10/site-packages",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/ohjunseok/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/ohjunseok/rokey4_C3_ws/src/final_pj/final_pj"
+}

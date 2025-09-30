@@ -1,0 +1,5 @@
+# CheckGuidingStatus.srv
+
+string robot_name
+---
+bool is_guiding

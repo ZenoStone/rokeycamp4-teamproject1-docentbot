@@ -1,0 +1,9 @@
+# Goal
+# 목표를 보낼 때 특별한 데이터는 필요 없습니다.
+---
+# Result
+bool success
+float32 final_depth
+---
+# Feedback
+float32 current_depth
